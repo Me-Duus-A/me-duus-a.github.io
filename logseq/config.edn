@@ -165,7 +165,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites []
+ :favorites ["TODO"]
  :ui/show-brackets? false
  :publishing/all-pages-public? true
 
